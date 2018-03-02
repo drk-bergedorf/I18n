@@ -1,0 +1,13 @@
+accountcode = Benutzer Codes
+accountcode.code = Benutzer Code
+accountcode.code.invalid = Benutzer code is invalid. Use only numbers and the "*" (asterisk) symbol.
+accountcode.code.tooltip = Benutzer code number.
+accountcode.description = Beschreibung
+accountcode.description.tooltip = Kurze Beschreibung für diesen Benutzer Code.
+accountcode.enabled = Aktiviert
+accountcode.enabled.tooltip = Aktiviere/Deaktiviere diesen Benutzer Code.
+accountcode.general = Allgemein
+accountcode.not_found = Benutzer Code nicht gefunden.
+accountcode.search = Suche
+module.accountcode = Benutzer Codes
+menu.account_codes = Benutzer Codes

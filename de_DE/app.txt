@@ -1,0 +1,34 @@
+app.activate = Aktiviere Installation
+app.billing = Abrechnung
+app.switchboard = Switchboard
+app.recordings = Aufnahmen
+app.activate.existent_account = Account bereits vorhanden!
+app.activate.register = Registrieren
+app.activate.info =
+	Zur Aktivierung der Installation von Updates über die Weboberfläche ist es erforderlich, 
+	dass Sie ein Konto anlegen oder sich mit Ihrem vorhanden Konto anmelden.
+	app.activate.register.email = Ihre E-Mail Adresse welche Sie nach der Registrierung zur Aktivierung jeder anderen Installation verwenden können.
+app.activate.register.password = Ihr Kennwort welches Sie nach der Registrierung zur Aktivierung jeder anderen Installation verwenden können.
+app.activate.register.phone = Ihre Telefonnummer für geschäftliche Anrufe. (Angabe optional)
+app.activate.register.country = Nur um zu wissen wo Sie sich befinden.
+app.activate.new_account = jetzt registrieren!
+app.activate.login = Login
+app.register.successfully = Sie haben Ihre Installation erfolgreich registriert und aktiviert.
+app.installation_activated = Sie haben Ihre Installation erfolgreich aktiviert.
+app.activation.no_first_name = Bitte geben Sie Ihren Vornamen an.
+app.activation.no_last_name = Bitte geben Sie Ihren Nachnamen an.
+app.activation.no_valid_email = Bitte geben Sie eine gültige E-Mail Adresse an.
+app.activation.no_password = Bitte geben Sie ein Kennwort ein.
+app.activation.no_response = Etwas hat nicht funktioniert, keine Antwort vom Aktivierungs-Server erhalten.
+app.activate.cannot_create_lic = Produkt konnte aufgrund fehlender Verzeichnis-Berechtigungen nicht aktiviert werden.
+app.no_updates = Keine Updates verfügbar
+app.new_update = Neues {0} Update
+app.new_version = Die neue Version <b>{0} {1}</b> ist verfügbar!
+app.update_now = Jetzt Updaten.
+app.updated = {0} wurde erfolgreich geupdated.
+app.cannot_update = Kann nicht auf die neuste Version updaten.
+app.user_profile_not_allowed = Es ist Ihnen nicht erlaubt Ihre Profil Konfiguration zu ändern.
+app.no_update_from_gui = Es ist Ihnen nicht erlaubt Updates über die Weboberfläche zu durchzuführen.
+app.change_language_not_allowed = Es ist Ihnen nicht erlaubt die Sprache der Weboberfläche zu ändern.
+app.module_not_found = Das Modul <b>{0}</b> existiert nicht.
+app.no_access_to_module = Sie besitzen keinen Zugriff auf das "<b>{0}</b>" Modul.

@@ -1,0 +1,11 @@
+ars = Routen-Selektion
+ars.all_outbound_routes = -- Alle ausgehenden Routen --
+ars.description = Beschreibung
+ars.description.tooltip = Freitextbeschreibung zur Identifizierung dieser Routen-Gruppe
+ars.enabled = Aktiv
+ars.general = Allgemein
+ars.members = Routen-Gruppen Mitglieder
+ars.outbound_route_id = Ausgehende Route
+ars.time_group_id = Zeitspanne
+menu.route_selections = Routen-Gruppe
+module.ars = Routen-Gruppe
